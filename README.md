@@ -29,6 +29,9 @@ Post app was built with and uses the following -
 
 Post app requires PHP Artisan to run and laravel installed.
 > $ php artisan migrate
+
 > // This will create the database
+
 > $ php artisan serve
+
 > // This will run the dev environment to view the app
